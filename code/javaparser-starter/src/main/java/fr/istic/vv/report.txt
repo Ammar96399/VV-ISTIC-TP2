@@ -1,0 +1,5 @@
+| Package | Class | TCC |
+| ------- | ----- | --- |
+| fr.istic.vv.analyse | ClassB | 0.00 |
+| fr.istic.vv.analyse | ClassA | 0.00 |
+| fr.istic.vv.analyse | Person | 0.00 |

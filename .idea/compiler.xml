@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="exercice4-code" target="9" />
-      <module name="javaparser-starter" target="9" />
+      <module name="javaparser-starter" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
